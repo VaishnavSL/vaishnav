@@ -1,0 +1,152 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}   
+.main{
+    width: 100%;
+    height: 800px;
+    background: url(../img/istockphoto-1313659762-170667a.jpg);
+    background-size: cover;
+
+}
+.head{
+    width: 100%;
+    height: 100px ;
+    background-color:black;
+
+}
+.icon img{
+    width: 12%;
+    height: 99px;
+    float: left;
+}
+.link{
+    float: right;
+}
+.link a{
+    text-decoration: none;
+    margin: 15px;
+    border: 1px solid rgb(37, 8, 8);
+    padding: 15px;
+    float: left;
+    color: azure;
+}
+.link a:hover{
+    background-color: rgb(123, 218, 86);
+}
+.heading1 h1{
+    color: rgb(228, 200, 200);
+    float:left;
+    font-family: 'Roboto Slab', serif;
+    margin-top: 30px;
+    margin-left: 200px;
+    font-size: 50px;
+
+}
+.heading2{
+    margin-left:70px;
+    margin-top: 50px;
+}
+.heading2 h1{
+    color: rgb(255, 246, 246);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30PX;
+}
+.heading2 ul{
+    color: rgb(1, 15, 11);
+}
+.table{
+    width:100%;
+    height:300px;
+    margin-top: 30px;
+}
+.box1 {
+    border: 3px solid #cf9906;
+    width: 22%;
+    height: 400px;
+    padding-top: 9px;
+    margin-left: 20px;
+    float: left;
+    background-color: #cf9906;
+}
+
+.box1 h3{
+    text-align: center;
+    padding: 10px;
+    font-size: 23px;
+}
+.box1 p{
+    font-size: 14px;
+    text-align: justify;
+}
+.box2 {
+    border: 3px solid #cf9906;
+    width: 22%;
+    height: 400px;
+    padding-top: 9px;
+    margin-left: 20px;
+    float: left;
+    background-color: #cf9906;
+}
+.box2 h3{
+    text-align: center;
+    padding: 10px;
+    font-size: 23px;
+}
+
+.box2 p{
+    font-size: 14px;
+    text-align: justify;
+}
+.box3 {
+    border: 3px solid #cf9906;
+    width: 22%;
+    height: 400px;
+    padding-top: 9px;
+    margin-left: 20px;
+    float: left;
+    background-color: #cf9906;
+}
+.box3 h3{
+    text-align: center;
+    padding: 10px;
+    font-size: 23px;
+    margin-bottom: 6px;
+}
+
+.box3 p{
+    font-size: 14px;
+    text-align: justify;
+}
+.box4 {
+    border: 3px solid #cf9906;
+    width: 25%;
+    height: 400px;
+    padding-top: 9px;
+    margin-left: 20px;
+    float: left;
+    background-color: #cf9906;
+}
+.box4 h3{
+    text-align: center;
+    padding: 10px;
+    font-size: 23px;
+}
+.box4 p{
+    font-size: 14px;
+    text-align: justify;
+}
+.footer{
+    width: 100%;
+    height: 50px;
+    background-color:black;
+    margin-top: 250px;
+}
+.footer h3{
+    color: aqua;
+    text-align: center;
+}
+.footer i{
+      color:darkgreen;
+      
+    }
